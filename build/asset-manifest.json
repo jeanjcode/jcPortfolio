@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jcPortfolio/static/css/main.47ff693b.css",
+    "main.js": "/jcPortfolio/static/js/main.dc1ca616.js",
+    "static/media/pink-sky.jpg": "/jcPortfolio/static/media/pink-sky.a09a1898680aaeb89c12.jpg",
+    "static/media/Dashboard.png": "/jcPortfolio/static/media/Dashboard.4a733f6cd2a5ee6437f7.png",
+    "static/media/JC--Planner-App.png": "/jcPortfolio/static/media/JC--Planner-App.4e4de7d5daee3e958f5c.png",
+    "static/media/terminal prmpts.png": "/jcPortfolio/static/media/terminal prmpts.696fb890d9afa0949e4a.png",
+    "static/media/Start Quiz.png": "/jcPortfolio/static/media/Start Quiz.e4519bbf0a483676ca80.png",
+    "static/media/command line.png": "/jcPortfolio/static/media/command line.0ef1899238cb3a6e8296.png",
+    "static/media/PasswordGenerator.png": "/jcPortfolio/static/media/PasswordGenerator.cb9d0e9d7172eefdab06.png",
+    "index.html": "/jcPortfolio/index.html",
+    "main.47ff693b.css.map": "/jcPortfolio/static/css/main.47ff693b.css.map",
+    "main.dc1ca616.js.map": "/jcPortfolio/static/js/main.dc1ca616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ff693b.css",
+    "static/js/main.dc1ca616.js"
+  ]
+}
